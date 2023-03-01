@@ -1,6 +1,7 @@
 /**
-* Titik.java 22/02/2023
-* Penulis : Silvira Nabila Anggita Giraldi - 24060121120011
+* Nama File : Titik.java 22/02/2023
+* Pembuat : Silvira Nabila Anggita Giraldi 
+* NIM : 24060121120011
 * Deskripsi : Program yang berisi kelas Titik.
 *
 *
