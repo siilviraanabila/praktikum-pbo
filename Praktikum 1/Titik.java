@@ -1,7 +1,7 @@
 /**
 * Titik.java 22/02/2023
 * Penulis : Silvira Nabila Anggita Giraldi
-* Deskripsi : overload konstruktor pada kelas titik.
+* Deskripsi : Program yang berisi kelas Titik.
 *
 *
 */
