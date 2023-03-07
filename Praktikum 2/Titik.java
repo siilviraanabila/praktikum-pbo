@@ -1,10 +1,10 @@
 /**
-* Titik.java 22/02/2023
-* Penulis : Silvira Nabila Anggita Giraldi
-* Deskripsi : Program yang berisi kelas Titik.
-*
-*
-*/
+Pembuat : Silvira Nabila Anggita Giraldi
+NIM : 24060121120011
+Tanggal : 22 Februari 2023
+Deskripsi : program yang berisi kelas Titik
+Lab : B1
+**/ 
 class Titik{
     private double absis;
     private double ordinat;
