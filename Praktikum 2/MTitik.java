@@ -1,10 +1,10 @@
 /**
-* MTitik.java 22/02/2023
-* Penulis : Silvira Nabila Anggita Giraldi
-* Deskripsi : kelas yang berisi program utama yang memanfaatkan kelas Titik
-*
-*
-*/
+Pembuat : Silvira Nabila Anggita Giraldi
+NIM : 24060121120011
+Tanggal : 22 Februari 2023
+Deskripsi : kelas yang berisi program utama yang memanfaatkan kelas Titik
+Lab : B1
+**/ 
 class MTitik
 {
     public static void main(String[]args)
