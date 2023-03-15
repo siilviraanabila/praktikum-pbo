@@ -1,3 +1,10 @@
+/**
+Pembuat : Silvira Nabila Anggita Giraldi
+NIM : 24060121120011
+Tanggal : 15 Maret 2023
+Deskripsi : Program yang berisi operasi Main TitikSepakBola
+Lab : B1
+**/
 class MTimSepakbola {
     public static void main(String[] args) {
       // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
