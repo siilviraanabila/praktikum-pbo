@@ -2,7 +2,7 @@
 Pembuat : Silvira Nabila Anggita Giraldi
 NIM : 24060121120011
 Tanggal : 15 Maret 2023
-Deskripsi : Program yang berisi operasi Main TitikSepakBola
+Deskripsi : Program yang berisi kelas Main TitikSepakBola
 Lab : B1
 **/
 class MTimSepakbola {
