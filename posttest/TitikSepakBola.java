@@ -1,3 +1,10 @@
+/**
+Pembuat : Silvira Nabila Anggita Giraldi
+NIM : 24060121120011
+Tanggal : 15 Maret 2023
+Deskripsi : Program yang berisi operasi TitikSepakBola
+Lab : B1
+**/
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
