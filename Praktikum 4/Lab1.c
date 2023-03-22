@@ -1,5 +1,4 @@
 /*
-Nama File 	: Kubus.java 
 Pembuat 	: Silvira Nabila Anggita Giraldi
 NIM 		: 24060121120011
 Tanggal   	: 16 Maret 2023
