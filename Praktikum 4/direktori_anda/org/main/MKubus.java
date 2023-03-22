@@ -14,8 +14,8 @@ import org.bangundatar.*;
  
 public class MKubus{ 
 	public static void main(String[] args){ 
-		BujurSangkar bujurSangkar = new BujurSangkar(6); 
-		Kubus kubus = new Kubus(bujurSangkar); 
+		PersegiPanjang persegipanjang = new PersegiPanjang(6); 
+		Kubus kubus = new Kubus(persegipanjang); 
 		System.out.println("Luas Alas Kubus dengan panjang sisi 6 satuan adalah : "+kubus.hitungLuasAlas()); 
 		System.out.println("Volume Kubus dengan panjang sisi 6 satuan adalah : "+kubus.hitungVolume()); 
 	} 
