@@ -9,12 +9,12 @@ Lab		: B1
 
 package org.bangunruang;
 
-import org.bangundatar.BujurSangkar;
+import org.bangundatar.PersegiPanjang;
 
 public class Kubus{
-    private BujurSangkar permukaan;
+    private PersegiPanjang permukaan;
 
-    public Kubus(BujurSangkar permukaan){
+    public Kubus(PersegiPanjang permukaan){
         this.permukaan = permukaan;
     }
 
