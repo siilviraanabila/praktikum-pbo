@@ -1,3 +1,10 @@
+/*
+Pembuat 	: Silvira Nabila Anggita Giraldi
+NIM 		: 24060121120011
+Tanggal   	: 16 Maret 2023
+Lab		: B1
+*/ 
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <unistd.h>
