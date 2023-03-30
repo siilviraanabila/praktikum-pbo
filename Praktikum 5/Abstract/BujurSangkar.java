@@ -13,5 +13,5 @@ public class BujurSangkar extends BangunDatar {
 	}
 }
 
-//Apabila BujurSangkar tidak membuat implementasi metode abstrak pada kelas BangunDatar, maka kelas BujurSangkar harus dijadika kelas abstrak juga
+//Apabila BujurSangkar tidak membuat implementasi metode abstrak pada kelas BangunDatar, maka kelas BujurSangkar harus dijadikan kelas abstrak juga
 //Jika tidak dijadikan kelas abstrak maka akan terjadi kesalahan kompilasi dan error 
