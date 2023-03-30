@@ -7,7 +7,7 @@ Lab : B1
 **/
 import java.util.Scanner;
 
-public class MBujurSangkar {
+class MBujurSangkar {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		BujurSangkar bs = new BujurSangkar();
