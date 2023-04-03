@@ -29,12 +29,3 @@ public class AngkaSial {
 		}
 	}
 }
-//Ketika eksepsi terjadi, baris 12 tidak akan dieksekusi. Karena apabila nilai argumen yang diberikan pada 
-//pemanggilan method cobaAngka adalah 13, maka eksepsi AngkaSialException akan dibuat dan dilemparkan pada baris ke 7.
-//Baris 12 hanya akan dieksekusi apabila nilai argumen yang diberikan bukan 13. Oleh karena itu, program akan melanjutkan
-//pada blok catch untuk menangani eksepsi jika terjadi.
-
-//Baris 21 akan selalu dieksekusi setekah program selesai dieksekusi. Apabila terjadi eksepsi AngkaSialException, program akan
-//melompat ke blok catch baris 19 untuk menangani eksepsi tersebut dan setelah blok catch selesai akan melanjutkan eksekusi pada baris 21
-//Namun jika tidak terjadi eksepsi AngkaSialException, program akan terus dieksekusi sampai selesai dan setelah program selesai dieksekusi maka
-//baris 21 akan dieksekusi dan menampilkan pesan "hati-hati memasukan angka!!!".
