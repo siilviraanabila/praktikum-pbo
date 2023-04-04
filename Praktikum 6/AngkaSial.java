@@ -29,3 +29,5 @@ public class AngkaSial {
 		}
 	}
 }
+//Ketika eksepsi terjadi, baris 12 dan 21 tidak bisa dieksekusi karena class AngkaSial exception belum dibuat
+//Sehingga perlu pembuatan class AngkaSial exception yang menjadi turunan dari class exception
